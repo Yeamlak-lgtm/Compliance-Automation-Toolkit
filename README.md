@@ -20,7 +20,7 @@ Instead of manually screenshotting AWS console settings for an audit, this toolk
 
 Running the toolkit generates an HTML compliance dashboard summarizing pass/fail status across all checks:
 
-![Sample compliance report](/Users/yeamlakmamo/Desktop/report-screenshot.png)
+![Sample compliance report](report-screenshot.png)
 
 ## Setup
 
