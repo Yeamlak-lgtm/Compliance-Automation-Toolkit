@@ -64,4 +64,4 @@ Python, boto3 (AWS SDK)
 
 ---
 
-Part of a larger GRC portfolio — see my [portfolio site link] for the full Ariel Financial Services compliance program, including risk assessments and security policy documentation.
+Part of a larger GRC portfolio — see my [potfolio site link] for the full Ariel Financial Services compliance program, including risk assessments and security policy documentation.
